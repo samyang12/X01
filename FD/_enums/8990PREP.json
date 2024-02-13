@@ -1,0 +1,7 @@
+{
+  "blobVersion":"1.0",
+  "version":"0.1",
+  "records":[
+    {"key":{"type":"DdEnumTableType", "key":"3839393050524550"}, "data":{"size":190, "data":"AsoVODk5MFBSRVAAAAEAAAIAMQAAAAAAAFByZXBhcmUgRm9ybSA4OTkwIGlmIGJ1c2luZXNzIGludGVyZXN0IGV4cGVuc2UgaXMgc3ViamVjdCB0byBTZWMgMTYzKGopAAAAAAAAAAAyAAAAAAAAUHJlcGFyZSBGb3JtIDg5OTAgaWYgYnVzaW5lc3MgaW50ZXJlc3QgZXhwZW5zZSBpcyBub3Qgc3ViamVjdCB0byBTZWMgMTYzKGopAAAAAA=="}}
+  ]
+}

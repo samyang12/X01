@@ -1,0 +1,18 @@
+{
+  "blobVersion":"1.0",
+  "version":"0.1",
+  "records":[
+    {"key":{"type":"DdWorksheetXRefType", "key":"15F82AF302050000"}, "data":{"size":53, "data":"AAAWFfgq8wIFAAA8uKGMAAAAAAAAAAAASm9hbm5hLkIAonquW0RyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"25D229F302050000"}, "data":{"size":53, "data":"AAAWJdIp8wIFAABLuKGMAAAAAAAAAAAASm9hbm5hLkcAa01lUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"28FE11FC75C80000"}, "data":{"size":53, "data":"AAAWKP4R/HXIAAA5uKGMAAAAAAAAAAAAbWVuZGVlLm0A4iqoWUdyZXRhMAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"2AD026F302050000"}, "data":{"size":53, "data":"AAAWKtAm8wIFAAA7uKGMAAAAAAAAAAAASm9hbm5hLkcAu0ZlUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"331A1EF302050000"}, "data":{"size":53, "data":"AAAWMxoe8wIFAABDuKGMAAAAAAAAAAAASm9hbm5hLkcAR0xlUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"7D982AF302050000"}, "data":{"size":53, "data":"AAAWfZgq8wIFAABAuKGMAAAAAAAAAAAASm9hbm5hLkcA+1JlUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"863820F302050000"}, "data":{"size":53, "data":"AAAWhjgg8wIFAABPuKGMAAAAAAAAAAAAbWVuZGVlLm0AzTMxWkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"B7C927F302050000"}, "data":{"size":53, "data":"AAAWt8kn8wIFAAA9uKGMAAAAAAAAAAAASm9hbm5hLkIAI3quW0RyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"DACF26F302050000"}, "data":{"size":53, "data":"AAAW2s8m8wIFAAA/uKGMAAAAAAAAAAAASm9hbm5hLkcAzUxlUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"DF061BF302050000"}, "data":{"size":53, "data":"AAAW3wYb8wIFAAA+uKGMAAAAAAAAAAAASm9hbm5hLkIAOnquW0RyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"FD261CF302050000"}, "data":{"size":53, "data":"AAAW/SYc8wIFAABCuKGMAAAAAAAAAAAASm9hbm5hLkcAMkxlUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"FD771BF302050000"}, "data":{"size":53, "data":"AAAW/Xcb8wIFAABBuKGMAAAAAAAAAAAASm9hbm5hLkcAH0xlUkRyYXcAAAAAAAAAAAAAAAA="}}
+  ]
+}

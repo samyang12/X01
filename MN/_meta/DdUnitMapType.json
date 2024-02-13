@@ -1,0 +1,8 @@
+{
+  "blobVersion":"1.0",
+  "version":"0.1",
+  "records":[
+    {"key":{"type":"DdUnitMapType", "key":"777E000000000000"}, "data":{"size":38, "data":"AAB5d34AAAAAAAAAAHd+AAAAAEFubnVhbCBSZXR1cm4AcwAAAAA="}},
+    {"key":{"type":"DdUnitMapType", "key":"827E000000000000"}, "data":{"size":38, "data":"AAB5gn4AAAAAAAAAAHd+AAAAAEFubnVhbCBSZXBvcnQAAAAAAAA="}}
+  ]
+}

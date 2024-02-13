@@ -1,0 +1,15 @@
+{
+  "blobVersion":"1.0",
+  "version":"0.1",
+  "records":[
+    {"key":{"type":"DdWorksheetXRefType", "key":"0097FFCC00000000"}, "data":{"size":53, "data":"AAAWAJf/zAAAAADvtzyDAAAAAAAAAAAASm9hbm5hLkcA1iYAUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"009B0B0820000000"}, "data":{"size":53, "data":"AAAWAJsLCCAAAABRuDyDAAAAAAAAAAAASm9hbm5hLkcAfAYBUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"25E5C44101050000"}, "data":{"size":53, "data":"AAAWJeXEQQEFAABUuDyDAAAAAAAAAAAASm9hbm5hLkcAtgMBUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"67880B0820000000"}, "data":{"size":53, "data":"AAAWZ4gLCCAAAABTuDyDAAAAAAAAAAAASm9hbm5hLkcAtwcBUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"80FC0A0820000000"}, "data":{"size":53, "data":"AAAWgPwKCCAAAADrtzyDAAAAAAAAAAAASm9hbm5hLkcA1P8AUkRyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"998A0B0820000000"}, "data":{"size":53, "data":"AAAWmYoLCCAAAADstzyDAAAAAAAAAAAASm9hbm5hLkcAe1mYTkdSRVRBOAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"A7500B0820000000"}, "data":{"size":53, "data":"AAAWp1ALCCAAAADttzyDAAAAAAAAAAAATkFOQ1kuSk8ARIQVS0RyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"C0020B0820000000"}, "data":{"size":53, "data":"AAAWwAILCCAAAADqtzyDAAAAAAAAAAAASm9hbm5hLkcA0kmYTkdSRVRBMgAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"D73E0B0820000000"}, "data":{"size":53, "data":"AAAW1z4LCCAAAABSuDyDAAAAAAAAAAAASm9hbm5hLkIAP8J+W0RyYXcAAAAAAAAAAAAAAAA="}}
+  ]
+}

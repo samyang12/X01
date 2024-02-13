@@ -1,0 +1,12 @@
+{
+  "blobVersion":"1.0",
+  "version":"0.1",
+  "records":[
+    {"key":{"type":"DdWorksheetXRefType", "key":"25A39E6C0FC80000"}, "data":{"size":53, "data":"AAAWJaOebA/IAAAquHd+AAAAAAAAAAAAQmVhdHJpeC4A0EuSV0dyZXRhMgAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"35698D0220000000"}, "data":{"size":53, "data":"AAAWNWmNAiAAAADAt3d+AAAAAAAAAAAAbWVsaXNzYS4AZLlFY0RyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"45B4F68416000000"}, "data":{"size":53, "data":"AAAWRbT2hBYAAAApuHd+AAAAAAAAAAAAbWVsaXNzYS4AVo/mZERyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"AD931D0000000000"}, "data":{"size":53, "data":"AAAWrZMdAAAAAAAnuHd+AAAAAAAAAAAAbWVsaXNzYS4AVo/mZEdyZXRhMwAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"C675BE187E421F00"}, "data":{"size":53, "data":"AAAWxnW+GH5CHwDGt3d+AAAAAAAAAAAAbWVsaXNzYS4Am71FY0RyYXcAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdWorksheetXRefType", "key":"DB25130000000000"}, "data":{"size":53, "data":"AAAW2yUTAAAAAAAouHd+AAAAAAAAAAAAbWVsaXNzYS4AVo/mZERyYXcAAAAAAAAAAAAAAAA="}}
+  ]
+}

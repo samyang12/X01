@@ -1,0 +1,14 @@
+{
+  "blobVersion":"1.0",
+  "version":"0.1",
+  "records":[
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"434F434F44450000"}, "data":{"size":38, "data":"AAAUQ09DT0RFAACKxU90aGVyIEVudGVycHJpc2UgQy9PIENvZAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"434F455354434400"}, "data":{"size":38, "data":"AAAUQ09FU1RDRACbxUVzdGltYXRlIENvZGUAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"434F46494C494E47"}, "data":{"size":38, "data":"AAAUQ09GSUxJTkeQxUZpbGluZyBTdGF0dXMAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"4355525052494F52"}, "data":{"size":38, "data":"AAAUQ1VSUFJJT1KPxUN1cnJlbnQgb3IgcHJpb3IgeWVhcgAAAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"444F43434F444500"}, "data":{"size":38, "data":"AAAURE9DQ09ERQCRxVN1Ym1pdHRlZCBEb2N1bWVudCBDb2RlAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"4F544845525F4352"}, "data":{"size":38, "data":"AAAUT1RIRVJfQ1KNxU9USEVSIENSRURJVFMAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"584F4352444F5200"}, "data":{"size":38, "data":"AAAUWE9DUkRPUgB0xUNvbG9yYWRvIENyZWRpdCBQcmlvcml0eQA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"584F4D4F44434400"}, "data":{"size":38, "data":"AAAUWE9NT0RDRACHxUluY3JlYXNlIG9yIERlY3JlYXNlAAAAAAA="}}
+  ]
+}
